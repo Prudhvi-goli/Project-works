@@ -31,7 +31,3 @@ The project implements and evaluates the following models:
 | One-Hot Encoded Random Forest     | 0.6616       |
 | Balanced Random Forest            | 0.6454       |
 | Gradient Boosting                 | 0.5588       |
-
-Key findings include:
-- One-hot encoding significantly improved model accuracy.
-- Gradient Boosting showed suboptimal results due to class imbalance.
