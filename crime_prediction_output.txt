@@ -1,4 +1,4 @@
-## **Model Evaluation Outputs**
+## Model Evaluation Outputs
 
 ### **Random Forest Model**
 - **Accuracy:** 0.6474  
