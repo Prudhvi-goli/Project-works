@@ -1,6 +1,3 @@
-
----
-
 ## **Model Evaluation Outputs**
 
 ### **Random Forest Model**
@@ -116,5 +113,3 @@ Break and Enter       0.00      0.00      0.00      4608
 - **One-Hot Encoded Random Forest Accuracy:** 0.6616  
 - **Balanced Random Forest Accuracy:** 0.6454  
 - **Gradient Boosting Accuracy:** 0.5588  
-
----
