@@ -1,4 +1,6 @@
-### **Model Evaluation Results 
+---
+
+### **Model Evaluation Results **
 
 #### **Random Forest Model**
 - **Accuracy:** 0.6474  
@@ -54,4 +56,13 @@
    [  678     0     0     1    22]
    [ 2497     0     0     0   884]]
   ```
+
 ---
+
+### **Summary of Model Accuracies**
+| Model                      | Accuracy         |
+|----------------------------|------------------|
+| Random Forest              | 0.6474           |
+| One-Hot Encoded Random Forest | 0.6616       |
+| Balanced Random Forest      | 0.6454           |
+| Gradient Boosting           | 0.5588           |
