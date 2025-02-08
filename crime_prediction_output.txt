@@ -1,7 +1,3 @@
-
-
----
-
 ### **Model Evaluation Results (From `crime_prediction_analysis.py`)**
 
 #### **Random Forest Model**
@@ -68,4 +64,3 @@
 | One-Hot Encoded Random Forest | 0.6616       |
 | Balanced Random Forest      | 0.6454           |
 | Gradient Boosting           | 0.5588           |
-
